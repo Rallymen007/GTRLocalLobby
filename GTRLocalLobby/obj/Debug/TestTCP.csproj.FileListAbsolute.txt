@@ -1,0 +1,6 @@
+C:\Users\Franck\source\repos\TestTCP\TestTCP\bin\Debug\TestTCP.exe
+C:\Users\Franck\source\repos\TestTCP\TestTCP\bin\Debug\TestTCP.pdb
+C:\Users\Franck\source\repos\TestTCP\TestTCP\obj\Debug\TestTCP.csprojAssemblyReference.cache
+C:\Users\Franck\source\repos\TestTCP\TestTCP\obj\Debug\TestTCP.csproj.CoreCompileInputs.cache
+C:\Users\Franck\source\repos\TestTCP\TestTCP\obj\Debug\TestTCP.exe
+C:\Users\Franck\source\repos\TestTCP\TestTCP\obj\Debug\TestTCP.pdb

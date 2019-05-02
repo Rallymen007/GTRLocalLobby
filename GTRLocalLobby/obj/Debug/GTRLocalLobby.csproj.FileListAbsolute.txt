@@ -1,0 +1,6 @@
+C:\Users\Franck\source\repos\GTRLocalLobby\GTRLocalLobby\bin\Debug\GTRLocalLobby.exe
+C:\Users\Franck\source\repos\GTRLocalLobby\GTRLocalLobby\bin\Debug\GTRLocalLobby.pdb
+C:\Users\Franck\source\repos\GTRLocalLobby\GTRLocalLobby\obj\Debug\GTRLocalLobby.csprojAssemblyReference.cache
+C:\Users\Franck\source\repos\GTRLocalLobby\GTRLocalLobby\obj\Debug\GTRLocalLobby.csproj.CoreCompileInputs.cache
+C:\Users\Franck\source\repos\GTRLocalLobby\GTRLocalLobby\obj\Debug\GTRLocalLobby.exe
+C:\Users\Franck\source\repos\GTRLocalLobby\GTRLocalLobby\obj\Debug\GTRLocalLobby.pdb
